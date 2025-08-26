@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598942334902",
+    "project_id": "runnersroute-556f0",
+    "storage_bucket": "runnersroute-556f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598942334902:android:bc2db7afa9fcec56b94b17",
+        "android_client_info": {
+          "package_name": "com.example.runners_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4YI87fSs61DsIUWGdVnMXUfoEM9NfpSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
